@@ -1,6 +1,6 @@
 ![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A Data Engineer from India</h3>
+<h3 align="center"> A Data Engineer & Researcher from India </h3>
 <br>
 <br>
 <br>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gaurav.jee2019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/101bo317aYqueh8Da_A2sVSiTfeLZr7Yp/view?usp=sharing](https://drive.google.com/file/d/101bo317aYqueh8Da_A2sVSiTfeLZr7Yp/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/101bo317aYqueh8Da_A2sVSiTfeLZr7Yp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
